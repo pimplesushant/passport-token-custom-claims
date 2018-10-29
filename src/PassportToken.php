@@ -22,7 +22,7 @@ use \DateTime;
  * @property array $errors
  * @property boolean $valid
  *
- * @package PeterPetrus\Auth
+ * @package Pimplesushant\Auth
  */
 class PassportToken
 {
