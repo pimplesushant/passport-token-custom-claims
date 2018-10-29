@@ -71,4 +71,3 @@ return ($decoded_token['valid']) ? $decoded_token['claims'] : false;
     ]
 ]
 ```
-# passport-token-custom-claims
