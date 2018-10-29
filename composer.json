@@ -1,5 +1,5 @@
 {
-  "name": "pimplesushant/passport-token",
+  "name": "pimplesushant/passport-token-custom-claims",
   "description": "Decoder for Laravel Passport (Bearer) Access Token",
   "license": "MIT",
   "require": {
